@@ -7,3 +7,4 @@ F = float(input(((infile.readline()).split())[2]))
 infile.close()
 C = (F - 32)*(5/9)
 print(C)
+
